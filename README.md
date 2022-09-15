@@ -1,5 +1,6 @@
+**(Tämä projekti oli JAMKin Mobiiliprojekti -kurssin lopputyö - lopullinen arvosana 4. Projektin viimeisin julkaisu on kerennyt jo vanhentua, mutta alta löytyy vielä videodemo)**  
 # Morse App
-**Kari Maaheimo (M1998)**  
+**Kari Maaheimo**  
 
 Mobiiliprojekti, jonka tavoitteena on luoda mobiilisovellus, jota voi hyödyntää morsekoodin oppimiseen.  
 Projektin suunnitelmat löytyvät projektin **Wikistä**. Wiki on englanniksi kun ehdin kirjoittaa sen ennen kuin päätin jatkaa suomeksi, enkä jaksa enää kääntää.  
